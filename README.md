@@ -1,7 +1,7 @@
 # Kafka-Core-Java
-Kafka producer and consumer implementation using core java  
-Kafka version: 3.5.0  
-Steps to run the app:  
+Kafka producer and consumer implementation using core java <br>
+Kafka version: 3.5.0 <br>
+Steps to run the app: <br>
 1. Bring up a Zookeeper instance.
 2. create brokers(based on replication factor).
 3. create topic(configure replication factor, partitions).
